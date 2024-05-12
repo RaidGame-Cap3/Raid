@@ -109,6 +109,7 @@
     <None Include="..\..\RaidGame.uproject"/>
     <None Include="..\..\Source\RaidGame.Target.cs"/>
     <None Include="..\..\Source\RaidGameEditor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
