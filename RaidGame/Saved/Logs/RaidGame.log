@@ -1586,6 +1586,7 @@ Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.Initializ
 [2024.05.19-09.40.33:668][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
 [2024.05.19-09.40.33:671][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
 [2024.05.19-09.40.39:150][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+<<<<<<< HEAD
 [2024.05.19-09.41.49:456][982]LogViewport: Scene viewport resized to 2033x534, mode Windowed.
 [2024.05.19-09.41.49:466][983]LogViewport: Scene viewport resized to 2033x550, mode Windowed.
 [2024.05.19-09.41.49:495][984]LogViewport: Scene viewport resized to 2033x587, mode Windowed.
@@ -2216,3 +2217,5 @@ Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.Initializ
 [2024.05.19-09.41.54:944][228]LogD3D12RHI: ~FD3D12DynamicRHI
 [2024.05.19-09.41.54:993][228]LogExit: Exiting.
 [2024.05.19-09.41.55:017][228]Log file closed, 05/19/24 18:41:55
+=======
+>>>>>>> ea6702d21e6e20d0cc01eeaba944e62186431b1a
