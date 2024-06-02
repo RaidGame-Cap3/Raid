@@ -78,4 +78,8 @@ DerivedDataCache/*
 *.ushaderbytecode
 *.ucas
 
+
+RaidGame/Binaries/
+RaidGame/Intermediate/
+RaidGame/Saved/
 ###
