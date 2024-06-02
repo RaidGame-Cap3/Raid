@@ -20,7 +20,11 @@
 /ALTERNATENAME:__imp___std_init_once_complete=__imp_InitOnceComplete
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
+<<<<<<< HEAD
 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64"
+=======
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\lib\x64"
+>>>>>>> feature/dungeon3
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
@@ -35,6 +39,7 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 /NATVIS:"..\Plugins\FX\Niagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\Niagara\Niagara.natvis"
+<<<<<<< HEAD
 "D:\Github\Raid\RaidGame\Intermediate\Build\Win64\x64\RaidGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
 "D:\Github\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\RaidGame.init.gen.cpp.obj"
 "D:\Github\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\RaidGameCharacter.gen.cpp.obj"
@@ -45,6 +50,18 @@
 "D:\Github\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\RaidGameGameMode.cpp.obj"
 "D:\Github\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\RaidGamePlayerController.cpp.obj"
 "D:\Github\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\Default.rc2.res"
+=======
+"C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Intermediate\Build\Win64\x64\RaidGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\RaidGame.init.gen.cpp.obj"
+"C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\RaidGameCharacter.gen.cpp.obj"
+"C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\RaidGameGameMode.gen.cpp.obj"
+"C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\RaidGamePlayerController.gen.cpp.obj"
+"C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\RaidGame.cpp.obj"
+"C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\RaidGameCharacter.cpp.obj"
+"C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\RaidGameGameMode.cpp.obj"
+"C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\RaidGamePlayerController.cpp.obj"
+"C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\Default.rc2.res"
+>>>>>>> feature/dungeon3
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -78,7 +95,13 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
+<<<<<<< HEAD
 /OUT:"D:\Github\Raid\RaidGame\Binaries\Win64\UnrealEditor-RaidGame.dll"
 /IMPLIB:"D:\Github\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\UnrealEditor-RaidGame.sup.lib"
 /PDB:"D:\Github\Raid\RaidGame\Binaries\Win64\UnrealEditor-RaidGame.pdb"
+=======
+/OUT:"C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Binaries\Win64\UnrealEditor-RaidGame.dll"
+/IMPLIB:"C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\UnrealEditor-RaidGame.sup.lib"
+/PDB:"C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Binaries\Win64\UnrealEditor-RaidGame.pdb"
+>>>>>>> feature/dungeon3
 /ignore:4078

@@ -1,5 +1,16 @@
 /I "."
+<<<<<<< HEAD
 /I "D:\Github\Raid\RaidGame\Source\RaidGame\Private"
+=======
+/I "D:\Github\Raid\RaidGame\Intermediate\Build\Win64\UnrealEditor\Inc\RaidGame\UHT"
+/I "D:\Github\Raid\RaidGame\Source"
+/I "Runtime\Core\Public"
+/I "Runtime\Core\Internal"
+/I "Runtime\TraceLog\Public"
+/I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT"
+/I "Runtime\CoreUObject\Public"
+/I "Runtime\CoreUObject\Internal"
+>>>>>>> feature/dungeon3
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT"
 /I "..\Shaders\Shared"
 /I "Runtime\Engine\Classes"
