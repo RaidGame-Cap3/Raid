@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RaidGame",
+			"Path": "..\\Source\\RaidGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RaidGameEditor",
+			"Path": "..\\Source\\RaidGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
