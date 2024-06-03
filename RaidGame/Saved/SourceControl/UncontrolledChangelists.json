@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/kjk16/Documents/GitHub/Raid/RaidGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/kjk16/Documents/GitHub/Raid/RaidGame/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/73/UVHWRURIUV7MNJFJVJ61SJ.uasset",
 				"C:/Users/kjk16/Documents/GitHub/Raid/RaidGame/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/DT/VK9K3LWM0J7UO8TVHOZPQ9.uasset",
@@ -188,6 +189,10 @@
 				"C:/Users/kjk16/Documents/GitHub/Raid/RaidGame/Content/TopDown/Maps/TopDownMap_Character.umap",
 				"D:/Github/Raid/RaidGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 >>>>>>> feature/character
+=======
+				"F:/Develop/UnrealProject/Raid/RaidGame/Content/MedievalDungeon/Maps/Demonstration_BuiltData.uasset",
+				"C:/Users/kjk16/Documents/GitHub/Raid/RaidGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+>>>>>>> feature/ui
 			]
 		}
 	]
