@@ -76,6 +76,7 @@ void EmptyLinkFunctionForGeneratedCodeRaidGameGameMode() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ARaidGameGameMode);
 	ARaidGameGameMode::~ARaidGameGameMode() {}
+<<<<<<< Updated upstream
 	struct Z_CompiledInDeferFile_FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
@@ -85,6 +86,17 @@ void EmptyLinkFunctionForGeneratedCodeRaidGameGameMode() {}
 	};
 	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_3571114251(TEXT("/Script/RaidGame"),
 		Z_CompiledInDeferFile_FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_Statics::ClassInfo),
+=======
+	struct Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_Statics
+	{
+		static const FClassRegisterCompiledInInfo ClassInfo[];
+	};
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_ARaidGameGameMode, ARaidGameGameMode::StaticClass, TEXT("ARaidGameGameMode"), &Z_Registration_Info_UClass_ARaidGameGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ARaidGameGameMode), 2389783391U) },
+	};
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_3571114251(TEXT("/Script/RaidGame"),
+		Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_Statics::ClassInfo),
+>>>>>>> Stashed changes
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

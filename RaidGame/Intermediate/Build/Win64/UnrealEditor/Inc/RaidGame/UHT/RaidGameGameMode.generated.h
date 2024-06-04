@@ -14,12 +14,21 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define RAIDGAME_RaidGameGameMode_generated_h
 
+<<<<<<< Updated upstream
 #define FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_SPARSE_DATA
 #define FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_SPARSE_DATA_PROPERTY_ACCESSORS
 #define FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
 #define FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS
 #define FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_ACCESSORS
 #define FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_INCLASS_NO_PURE_DECLS \
+=======
+#define FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_SPARSE_DATA
+#define FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_ACCESSORS
+#define FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_INCLASS_NO_PURE_DECLS \
+>>>>>>> Stashed changes
 private: \
 	static void StaticRegisterNativesARaidGameGameMode(); \
 	friend struct Z_Construct_UClass_ARaidGameGameMode_Statics; \
@@ -28,7 +37,11 @@ public: \
 	DECLARE_SERIALIZER(ARaidGameGameMode)
 
 
+<<<<<<< Updated upstream
 #define FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_ENHANCED_CONSTRUCTORS \
+=======
+#define FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_ENHANCED_CONSTRUCTORS \
+>>>>>>> Stashed changes
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	RAIDGAME_API ARaidGameGameMode(ARaidGameGameMode&&); \
@@ -40,6 +53,7 @@ public: \
 	RAIDGAME_API virtual ~ARaidGameGameMode();
 
 
+<<<<<<< Updated upstream
 #define FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_9_PROLOG
 #define FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
@@ -51,6 +65,19 @@ public: \
 	FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_ACCESSORS \
 	FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_INCLASS_NO_PURE_DECLS \
 	FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_ENHANCED_CONSTRUCTORS \
+=======
+#define FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_9_PROLOG
+#define FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_SPARSE_DATA \
+	FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_ACCESSORS \
+	FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_12_ENHANCED_CONSTRUCTORS \
+>>>>>>> Stashed changes
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -58,7 +85,11 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> RAIDGAME_API UClass* StaticClass<class ARaidGameGameMode>();
 
 #undef CURRENT_FILE_ID
+<<<<<<< Updated upstream
 #define CURRENT_FILE_ID FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h
+=======
+#define CURRENT_FILE_ID FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h
+>>>>>>> Stashed changes
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

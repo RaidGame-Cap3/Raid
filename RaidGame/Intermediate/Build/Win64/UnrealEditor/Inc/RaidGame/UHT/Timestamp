@@ -1,3 +1,24 @@
+<<<<<<< Updated upstream
 C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Source\RaidGame\RaidGameCharacter.h
 C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Source\RaidGame\RaidGamePlayerController.h
 C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Source\RaidGame\RaidGameGameMode.h
+=======
+D:\Github\Raid\RaidGame\Source\RaidGame\Public\PlayableCharacter.h
+D:\Github\Raid\RaidGame\Source\RaidGame\Public\MyClass.h
+D:\Github\Raid\RaidGame\Source\RaidGame\Public\RaidAbilityInput.h
+D:\Github\Raid\RaidGame\Source\RaidGame\RaidGame.h
+D:\Github\Raid\RaidGame\Source\RaidGame\RaidGameCharacter.h
+D:\Github\Raid\RaidGame\Source\RaidGame\RaidGameGameMode.h
+D:\Github\Raid\RaidGame\Source\RaidGame\RaidGamePlayerController.h
+D:\Github\Raid\RaidGame\Source\RaidGame\Character\AsyncTaskAttributeChanged.h
+D:\Github\Raid\RaidGame\Source\RaidGame\Character\AsyncTaskCooldownChanged.h
+D:\Github\Raid\RaidGame\Source\RaidGame\Character\AsyncTaskEffectStackChanged.h
+D:\Github\Raid\RaidGame\Source\RaidGame\Character\BaseCharacter.h
+D:\Github\Raid\RaidGame\Source\RaidGame\Character\Abilities\RaidGameplayAbility.h
+D:\Github\Raid\RaidGame\Source\RaidGame\Character\RaidAbilitySystemComponent.h
+D:\Github\Raid\RaidGame\Source\RaidGame\Character\Abilities\AbilityTasks\AT_WaitReceiveDamage.h
+D:\Github\Raid\RaidGame\Source\RaidGame\Character\Attributes\BaseAttributeSet.h
+D:\Github\Raid\RaidGame\Source\RaidGame\Character\Attributes\Execution\DamageExecutionCalc.h
+D:\Github\Raid\RaidGame\Source\RaidGame\Character\PlayableCharacter\PlayerCharacter.h
+D:\Github\Raid\RaidGame\Source\RaidGame\Character\Player\RaidPlayerState.h
+>>>>>>> Stashed changes

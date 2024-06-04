@@ -1,11 +1,19 @@
 {
     "Version": "1.2",
     "Data": {
+<<<<<<< Updated upstream
         "Source": "c:\\users\\kjk16\\documents\\github\\raid\\raidgame\\intermediate\\build\\win64\\unrealeditor\\inc\\raidgame\\uht\\raidgame.init.gen.cpp",
         "ProvidedModule": "",
         "PCH": "c:\\users\\kjk16\\documents\\github\\raid\\raidgame\\intermediate\\build\\win64\\x64\\raidgameeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
         "Includes": [
             "c:\\users\\kjk16\\documents\\github\\raid\\raidgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\raidgame\\definitions.raidgame.h"
+=======
+        "Source": "d:\\github\\raid\\raidgame\\intermediate\\build\\win64\\unrealeditor\\inc\\raidgame\\uht\\raidgame.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\raid\\raidgame\\intermediate\\build\\win64\\x64\\raidgameeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\raid\\raidgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\raidgame\\definitions.raidgame.h"
+>>>>>>> Stashed changes
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

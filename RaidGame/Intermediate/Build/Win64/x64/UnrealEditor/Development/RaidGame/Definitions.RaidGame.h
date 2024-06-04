@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 #include "C:/Users/kjk16/Documents/GitHub/Raid/RaidGame/Intermediate/Build/Win64/x64/RaidGameEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Cpp20.h"
+=======
+#include "D:/Github/Raid/RaidGame/Intermediate/Build/Win64/x64/RaidGameEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Cpp20.h"
+>>>>>>> Stashed changes
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED
@@ -21,6 +25,14 @@
 #define IMPLEMENT_SIGNING_KEY_REGISTRATION() 
 #define DEPRECATED_FORGAME DEPRECATED
 #define UE_DEPRECATED_FORGAME UE_DEPRECATED
+<<<<<<< Updated upstream
+=======
+#define WITH_GAMEPLAY_DEBUGGER_CORE 1
+#define WITH_GAMEPLAY_DEBUGGER 1
+#define WITH_GAMEPLAY_DEBUGGER_MENU 1
+#define GAMEPLAYABILITIES_API DLLIMPORT
+#define DATAREGISTRY_API DLLIMPORT
+>>>>>>> Stashed changes
 #define RAIDGAME_API DLLEXPORT
 #define WITH_GAMEPLAY_DEBUGGER_CORE 1
 #define WITH_GAMEPLAY_DEBUGGER 1

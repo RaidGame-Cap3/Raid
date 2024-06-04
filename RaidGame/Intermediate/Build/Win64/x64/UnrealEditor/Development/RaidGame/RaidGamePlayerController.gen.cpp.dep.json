@@ -1,6 +1,7 @@
 {
     "Version": "1.2",
     "Data": {
+<<<<<<< Updated upstream
         "Source": "c:\\users\\kjk16\\documents\\github\\raid\\raidgame\\intermediate\\build\\win64\\unrealeditor\\inc\\raidgame\\uht\\raidgameplayercontroller.gen.cpp",
         "ProvidedModule": "",
         "PCH": "c:\\users\\kjk16\\documents\\github\\raid\\raidgame\\intermediate\\build\\win64\\x64\\raidgameeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
@@ -8,6 +9,15 @@
             "c:\\users\\kjk16\\documents\\github\\raid\\raidgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\raidgame\\definitions.raidgame.h",
             "c:\\users\\kjk16\\documents\\github\\raid\\raidgame\\source\\raidgame\\raidgameplayercontroller.h",
             "c:\\users\\kjk16\\documents\\github\\raid\\raidgame\\intermediate\\build\\win64\\unrealeditor\\inc\\raidgame\\uht\\raidgameplayercontroller.generated.h"
+=======
+        "Source": "d:\\github\\raid\\raidgame\\intermediate\\build\\win64\\unrealeditor\\inc\\raidgame\\uht\\raidgameplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\raid\\raidgame\\intermediate\\build\\win64\\x64\\raidgameeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\raid\\raidgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\raidgame\\definitions.raidgame.h",
+            "d:\\github\\raid\\raidgame\\source\\raidgame\\raidgameplayercontroller.h",
+            "d:\\github\\raid\\raidgame\\intermediate\\build\\win64\\unrealeditor\\inc\\raidgame\\uht\\raidgameplayercontroller.generated.h"
+>>>>>>> Stashed changes
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
