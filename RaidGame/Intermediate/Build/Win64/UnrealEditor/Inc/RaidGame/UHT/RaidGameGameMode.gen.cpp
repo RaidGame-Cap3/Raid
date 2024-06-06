@@ -76,6 +76,25 @@ void EmptyLinkFunctionForGeneratedCodeRaidGameGameMode() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ARaidGameGameMode);
 	ARaidGameGameMode::~ARaidGameGameMode() {}
+<<<<<<< HEAD
+	struct Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_Statics
+=======
+<<<<<<< Updated upstream
+	struct Z_CompiledInDeferFile_FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_Statics
+>>>>>>> 2bbc3b95112ec00c863eb4ab2422a19d52d608b1
+	{
+		static const FClassRegisterCompiledInInfo ClassInfo[];
+	};
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_ARaidGameGameMode, ARaidGameGameMode::StaticClass, TEXT("ARaidGameGameMode"), &Z_Registration_Info_UClass_ARaidGameGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ARaidGameGameMode), 2389783391U) },
+	};
+<<<<<<< HEAD
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_3571114251(TEXT("/Script/RaidGame"),
+		Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_Statics::ClassInfo),
+=======
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_3571114251(TEXT("/Script/RaidGame"),
+		Z_CompiledInDeferFile_FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_Statics::ClassInfo),
+=======
 	struct Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
@@ -85,6 +104,8 @@ void EmptyLinkFunctionForGeneratedCodeRaidGameGameMode() {}
 	};
 	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_3571114251(TEXT("/Script/RaidGame"),
 		Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_RaidGameGameMode_h_Statics::ClassInfo),
+>>>>>>> Stashed changes
+>>>>>>> 2bbc3b95112ec00c863eb4ab2422a19d52d608b1
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
