@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RaidGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Programming\Unreal\capston\Raid\RaidGame\Intermediate\Build\Win64\x64\RaidGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"D:\Programming\Unreal\capston\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\Module.RaidGame.cpp.obj"
+"D:\Programming\Unreal\capston\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\Default.rc2.res"
+/OUT:"D:\Programming\Unreal\capston\Raid\RaidGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaidGame\UnrealEditor-RaidGame.lib"
