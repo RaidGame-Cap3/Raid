@@ -1,0 +1,20 @@
+{
+	"SourceFiles": [
+<<<<<<< HEAD
+		"D:\\Github\\Raid\\RaidGame\\Source\\RaidGame\\RaidGame.Build.cs",
+		"D:\\Github\\Raid\\RaidGame\\Source\\RaidGame.Target.cs",
+		"D:\\Github\\Raid\\RaidGame\\Source\\RaidGameEditor.Target.cs"
+=======
+<<<<<<< Updated upstream
+		"C:\\Users\\kjk16\\Documents\\GitHub\\Raid\\RaidGame\\Source\\RaidGame\\RaidGame.Build.cs",
+		"C:\\Users\\kjk16\\Documents\\GitHub\\Raid\\RaidGame\\Source\\RaidGame.Target.cs",
+		"C:\\Users\\kjk16\\Documents\\GitHub\\Raid\\RaidGame\\Source\\RaidGameEditor.Target.cs"
+=======
+		"D:\\Github\\Raid\\RaidGame\\Source\\RaidGame\\RaidGame.Build.cs",
+		"D:\\Github\\Raid\\RaidGame\\Source\\RaidGame.Target.cs",
+		"D:\\Github\\Raid\\RaidGame\\Source\\RaidGameEditor.Target.cs"
+>>>>>>> Stashed changes
+>>>>>>> 2bbc3b95112ec00c863eb4ab2422a19d52d608b1
+	],
+	"EngineVersion": "5.3.2"
+}
