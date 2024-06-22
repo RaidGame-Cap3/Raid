@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RaidGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RaidGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RaidGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RaidGame">
+      <UniqueIdentifier>{843BAD43-4DA2-31D6-86AA-A8FECD00F0C5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RaidGame\RaidGame.Build.cs">
+      <Filter>Source\RaidGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RaidGame\RaidGame.cpp">
+      <Filter>Source\RaidGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RaidGame\RaidGame.h">
+      <Filter>Source\RaidGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RaidGame\RaidGameCharacter.cpp">
+      <Filter>Source\RaidGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RaidGame\RaidGameCharacter.h">
+      <Filter>Source\RaidGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RaidGame\RaidGameGameMode.cpp">
+      <Filter>Source\RaidGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RaidGame\RaidGameGameMode.h">
+      <Filter>Source\RaidGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RaidGame\RaidGamePlayerController.cpp">
+      <Filter>Source\RaidGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RaidGame\RaidGamePlayerController.h">
+      <Filter>Source\RaidGame</Filter>
+    </ClInclude>
+<<<<<<< Updated upstream
+=======
+    <Filter Include="Source\RaidGame\Character">
+      <UniqueIdentifier>{E6F0E436-ECA3-38DC-8A5E-CB83511E0BE7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RaidGame\Character\AsyncTaskAttributeChanged.cpp">
+      <Filter>Source\RaidGame\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RaidGame\Character\AsyncTaskAttributeChanged.h">
+      <Filter>Source\RaidGame\Character</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RaidGame\Character\AsyncTaskCooldownChanged.cpp">
+      <Filter>Source\RaidGame\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RaidGame\Character\AsyncTaskCooldownChanged.h">
+      <Filter>Source\RaidGame\Character</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RaidGame\Character\AsyncTaskEffectStackChanged.cpp">
+      <Filter>Source\RaidGame\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RaidGame\Character\AsyncTaskEffectStackChanged.h">
+      <Filter>Source\RaidGame\Character</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RaidGame\Character\BaseCharacter.cpp">
+      <Filter>Source\RaidGame\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RaidGame\Character\BaseCharacter.h">
+      <Filter>Source\RaidGame\Character</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RaidGame\Character\RaidAbilitySystemComponent.cpp">
+      <Filter>Source\RaidGame\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RaidGame\Character\RaidAbilitySystemComponent.h">
+      <Filter>Source\RaidGame\Character</Filter>
+    </ClInclude>
+    <Filter Include="Source\RaidGame\Character\Abilities">
+      <UniqueIdentifier>{2584B9D6-65F3-3263-ADD9-6808D1E3CC70}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RaidGame\Character\Abilities\RaidGameplayAbility.cpp">
+      <Filter>Source\RaidGame\Character\Abilities</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RaidGame\Character\Abilities\RaidGameplayAbility.h">
+      <Filter>Source\RaidGame\Character\Abilities</Filter>
+    </ClInclude>
+    <Filter Include="Source\RaidGame\Character\Abilities\AbilityTasks">
+      <UniqueIdentifier>{78B21A25-6640-3654-BCAF-99E49F0AF180}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RaidGame\Character\Abilities\AbilityTasks\AT_WaitReceiveDamage.cpp">
+      <Filter>Source\RaidGame\Character\Abilities\AbilityTasks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RaidGame\Character\Abilities\AbilityTasks\AT_WaitReceiveDamage.h">
+      <Filter>Source\RaidGame\Character\Abilities\AbilityTasks</Filter>
+    </ClInclude>
+    <Filter Include="Source\RaidGame\Character\Attributes">
+      <UniqueIdentifier>{9762C3EE-BDCA-3EAD-8643-ABBE58884A4F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RaidGame\Character\Attributes\BaseAttributeSet.cpp">
+      <Filter>Source\RaidGame\Character\Attributes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RaidGame\Character\Attributes\BaseAttributeSet.h">
+      <Filter>Source\RaidGame\Character\Attributes</Filter>
+    </ClInclude>
+    <Filter Include="Source\RaidGame\Character\Attributes\Execution">
+      <UniqueIdentifier>{C4214981-204C-36F7-8B2F-64EDB29E91A1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RaidGame\Character\Attributes\Execution\DamageExecutionCalc.cpp">
+      <Filter>Source\RaidGame\Character\Attributes\Execution</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RaidGame\Character\Attributes\Execution\DamageExecutionCalc.h">
+      <Filter>Source\RaidGame\Character\Attributes\Execution</Filter>
+    </ClInclude>
+    <Filter Include="Source\RaidGame\Character\PlayableCharacter">
+      <UniqueIdentifier>{520BB0C4-DD43-3A98-8713-306F7699FBD5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RaidGame\Character\PlayableCharacter\PlayerCharacter.cpp">
+      <Filter>Source\RaidGame\Character\PlayableCharacter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RaidGame\Character\PlayableCharacter\PlayerCharacter.h">
+      <Filter>Source\RaidGame\Character\PlayableCharacter</Filter>
+    </ClInclude>
+    <Filter Include="Source\RaidGame\Character\Player">
+      <UniqueIdentifier>{EFFF1119-819E-3ADA-B6F3-C72A84F81F64}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RaidGame\Character\Player\RaidPlayerState.cpp">
+      <Filter>Source\RaidGame\Character\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RaidGame\Character\Player\RaidPlayerState.h">
+      <Filter>Source\RaidGame\Character\Player</Filter>
+    </ClInclude>
+    <Filter Include="Source\RaidGame\Private">
+      <UniqueIdentifier>{B74EC3F1-D0FB-31A3-81FF-07427AD042C8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RaidGame\Private\MyClass.cpp">
+      <Filter>Source\RaidGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RaidGame\Private\PlayableCharacter.cpp">
+      <Filter>Source\RaidGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RaidGame\Private\RaidAbilityInput.cpp">
+      <Filter>Source\RaidGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RaidGame\Private\RaidTags.cpp">
+      <Filter>Source\RaidGame\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\RaidGame\Public">
+      <UniqueIdentifier>{19B532B9-3302-3C2E-A382-E1D2D57E687E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\RaidGame\Public\MyClass.h">
+      <Filter>Source\RaidGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RaidGame\Public\PlayableCharacter.h">
+      <Filter>Source\RaidGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RaidGame\Public\RaidAbilityInput.h">
+      <Filter>Source\RaidGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RaidGame\Public\RaidTags.h">
+      <Filter>Source\RaidGame\Public</Filter>
+    </ClInclude>
+>>>>>>> Stashed changes
+  </ItemGroup>
+</Project>

@@ -1,0 +1,50 @@
+[+] Containers:
+ |- [+] Container: /Game/Dungeon/Maps/TopDownMap0
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:EB69EBF24B0FCDC64247DEBBF1A4E5C6 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:EB69EBF24B0FCDC64247DEBBF1A4E5C6 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Dungeon/Maps/TopDownMap0
+----------------------------------------------------------------------------------------------------------------
+TopDownMap0 - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of TopDownMap0 Persistent Level
+ |- Always loaded Actor Count: 7 
+ |- Actor Path: /Game/Dungeon/Maps/TopDownMap0.TopDownMap0:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Dungeon/Maps/TopDownMap0
+ |- Actor Path: /Game/Dungeon/Maps/TopDownMap0.TopDownMap0:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Dungeon/Maps/TopDownMap0
+ |- Actor Path: /Game/Dungeon/Maps/TopDownMap0.TopDownMap0:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Dungeon/Maps/TopDownMap0
+ |- Actor Path: /Game/Dungeon/Maps/TopDownMap0.TopDownMap0:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Dungeon/Maps/TopDownMap0
+ |- Actor Path: /Game/Dungeon/Maps/TopDownMap0.TopDownMap0:PersistentLevel.TopDownMap3_C_1
+ |- Actor Package: /Game/Dungeon/Maps/TopDownMap0
+ |- Actor Path: /Game/Dungeon/Maps/TopDownMap0.TopDownMap0:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Dungeon/Maps/TopDownMap0/F/1B/V5X5YLAIRE06ZQ2FR6T0PJ
+ |- Actor Path: /Game/Dungeon/Maps/TopDownMap0.TopDownMap0:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/Dungeon/Maps/TopDownMap0
+
+----------------------------------------------------------------------------------------------------------------
+TopDownMap0 - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
