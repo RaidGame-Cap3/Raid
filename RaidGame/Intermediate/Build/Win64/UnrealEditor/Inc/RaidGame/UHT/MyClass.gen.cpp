@@ -78,15 +78,15 @@ void EmptyLinkFunctionForGeneratedCodeMyClass() {}
 	UMyClass::UMyClass(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer) {}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UMyClass);
 	UMyClass::~UMyClass() {}
-	struct Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_Public_MyClass_h_Statics
+	struct Z_CompiledInDeferFile_FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_Public_MyClass_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_Public_MyClass_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_Public_MyClass_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_UMyClass, UMyClass::StaticClass, TEXT("UMyClass"), &Z_Registration_Info_UClass_UMyClass, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UMyClass), 223749934U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_Public_MyClass_h_2141745122(TEXT("/Script/RaidGame"),
-		Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_Public_MyClass_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Github_Raid_RaidGame_Source_RaidGame_Public_MyClass_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_Public_MyClass_h_2141745122(TEXT("/Script/RaidGame"),
+		Z_CompiledInDeferFile_FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_Public_MyClass_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_kjk16_Documents_GitHub_Raid_RaidGame_Source_RaidGame_Public_MyClass_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

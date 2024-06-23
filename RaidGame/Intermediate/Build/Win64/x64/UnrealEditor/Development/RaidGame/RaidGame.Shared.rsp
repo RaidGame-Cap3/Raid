@@ -1,34 +1,10 @@
 /I "."
-<<<<<<< HEAD
-<<<<<<< HEAD
-/I "D:\Github\Raid\RaidGame\Source\RaidGame\Private"
-=======
-/I "D:\Github\Raid\RaidGame\Intermediate\Build\Win64\UnrealEditor\Inc\RaidGame\UHT"
-/I "D:\Github\Raid\RaidGame\Source"
-=======
-<<<<<<< Updated upstream
-/I "C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Intermediate\Build\Win64\UnrealEditor\Inc\RaidGame\UHT"
-/I "C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Source"
->>>>>>> 2bbc3b95112ec00c863eb4ab2422a19d52d608b1
-/I "Runtime\Core\Public"
-/I "Runtime\Core\Internal"
-/I "Runtime\TraceLog\Public"
-/I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT"
-/I "Runtime\CoreUObject\Public"
-/I "Runtime\CoreUObject\Internal"
-<<<<<<< HEAD
->>>>>>> feature/dungeon3
-=======
-=======
-/I "D:\Github\Raid\RaidGame\Source\RaidGame\Private"
->>>>>>> Stashed changes
->>>>>>> 2bbc3b95112ec00c863eb4ab2422a19d52d608b1
+/I "C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Source\RaidGame\Private"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT"
 /I "..\Shaders\Shared"
 /I "Runtime\Engine\Classes"
 /I "Runtime\Engine\Public"
 /I "Runtime\Engine\Internal"
-<<<<<<< HEAD
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
 /I "Runtime\TraceLog\Public"
@@ -37,21 +13,6 @@
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT"
 /I "Runtime\CoreUObject\Public"
 /I "Runtime\CoreUObject\Internal"
-=======
-<<<<<<< Updated upstream
-/I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreOnline\UHT"
-/I "Runtime\CoreOnline\Public"
-=======
-/I "Runtime\Core\Public"
-/I "Runtime\Core\Internal"
-/I "Runtime\TraceLog\Public"
-/I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreOnline\UHT"
-/I "Runtime\CoreOnline\Public"
-/I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT"
-/I "Runtime\CoreUObject\Public"
-/I "Runtime\CoreUObject\Internal"
->>>>>>> Stashed changes
->>>>>>> 2bbc3b95112ec00c863eb4ab2422a19d52d608b1
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\FieldNotification\UHT"
 /I "Runtime\FieldNotification\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\NetCore\UHT"
@@ -296,25 +257,13 @@
 /I "Developer\PhysicsUtilities\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\WidgetRegistration\UHT"
 /I "Developer\WidgetRegistration\Public"
-<<<<<<< HEAD
-/I "D:\Github\Raid\RaidGame\Intermediate\Build\Win64\UnrealEditor\Inc\RaidGame\UHT"
-/I "D:\Github\Raid\RaidGame\Source"
-/I "D:\Github\Raid\RaidGame\Source\RaidGame\Public"
-=======
-<<<<<<< Updated upstream
-=======
->>>>>>> 2bbc3b95112ec00c863eb4ab2422a19d52d608b1
 /I "..\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayAbilities\UHT"
 /I "..\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public"
 /I "..\Plugins\Runtime\DataRegistry\Intermediate\Build\Win64\UnrealEditor\Inc\DataRegistry\UHT"
 /I "..\Plugins\Runtime\DataRegistry\Source\DataRegistry\Public"
-<<<<<<< HEAD
-=======
-/I "D:\Github\Raid\RaidGame\Intermediate\Build\Win64\UnrealEditor\Inc\RaidGame\UHT"
-/I "D:\Github\Raid\RaidGame\Source"
-/I "D:\Github\Raid\RaidGame\Source\RaidGame\Public"
->>>>>>> Stashed changes
->>>>>>> 2bbc3b95112ec00c863eb4ab2422a19d52d608b1
+/I "C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Intermediate\Build\Win64\UnrealEditor\Inc\RaidGame\UHT"
+/I "C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Source"
+/I "C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Source\RaidGame\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AIModule\UHT"
 /I "Runtime\AIModule\Classes"
 /I "Runtime\AIModule\Public"
@@ -335,15 +284,7 @@
 /external:I "ThirdParty\mimalloc\include"
 /external:I "ThirdParty\LibTiff\Source\Win64"
 /external:I "ThirdParty\LibTiff\Source"
-<<<<<<< HEAD
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\INCLUDE"
-=======
-<<<<<<< Updated upstream
 /external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\INCLUDE"
-=======
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\INCLUDE"
->>>>>>> Stashed changes
->>>>>>> 2bbc3b95112ec00c863eb4ab2422a19d52d608b1
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"

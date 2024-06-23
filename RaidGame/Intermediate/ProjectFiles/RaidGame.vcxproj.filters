@@ -60,8 +60,6 @@
     <ClInclude Include="..\..\Source\RaidGame\RaidGamePlayerController.h">
       <Filter>Source\RaidGame</Filter>
     </ClInclude>
-<<<<<<< Updated upstream
-=======
     <Filter Include="Source\RaidGame\Character">
       <UniqueIdentifier>{E6F0E436-ECA3-38DC-8A5E-CB83511E0BE7}</UniqueIdentifier>
     </Filter>
@@ -179,6 +177,5 @@
     <ClInclude Include="..\..\Source\RaidGame\Public\RaidTags.h">
       <Filter>Source\RaidGame\Public</Filter>
     </ClInclude>
->>>>>>> Stashed changes
   </ItemGroup>
 </Project>

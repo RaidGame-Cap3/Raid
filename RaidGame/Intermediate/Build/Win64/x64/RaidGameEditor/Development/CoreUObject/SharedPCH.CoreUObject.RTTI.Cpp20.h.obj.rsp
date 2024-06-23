@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-"D:\Github\Raid\RaidGame\Intermediate\Build\Win64\x64\RaidGameEditor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.cpp"
-=======
-<<<<<<< Updated upstream
 "C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Intermediate\Build\Win64\x64\RaidGameEditor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.cpp"
-=======
-"D:\Github\Raid\RaidGame\Intermediate\Build\Win64\x64\RaidGameEditor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.cpp"
->>>>>>> Stashed changes
->>>>>>> 2bbc3b95112ec00c863eb4ab2422a19d52d608b1
 /I "."
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT"
 /I "Runtime\CoreUObject\Public"
@@ -16,36 +8,15 @@
 /I "Runtime\TraceLog\Public"
 /external:W0
 /external:I "ThirdParty\mimalloc\include"
-<<<<<<< HEAD
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\INCLUDE"
-=======
-<<<<<<< Updated upstream
 /external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\INCLUDE"
-=======
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\INCLUDE"
->>>>>>> Stashed changes
->>>>>>> 2bbc3b95112ec00c863eb4ab2422a19d52d608b1
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
 /Yc"C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Intermediate\Build\Win64\x64\RaidGameEditor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h"
 /Fp"C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Intermediate\Build\Win64\x64\RaidGameEditor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.pch"
 /Fo"C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Intermediate\Build\Win64\x64\RaidGameEditor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.obj"
 /sourceDependencies "C:\Users\kjk16\Documents\GitHub\Raid\RaidGame\Intermediate\Build\Win64\x64\RaidGameEditor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.dep.json"
-=======
->>>>>>> 2bbc3b95112ec00c863eb4ab2422a19d52d608b1
-/Yc"D:\Github\Raid\RaidGame\Intermediate\Build\Win64\x64\RaidGameEditor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h"
-/Fp"D:\Github\Raid\RaidGame\Intermediate\Build\Win64\x64\RaidGameEditor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.pch"
-/Fo"D:\Github\Raid\RaidGame\Intermediate\Build\Win64\x64\RaidGameEditor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.obj"
-/sourceDependencies "D:\Github\Raid\RaidGame\Intermediate\Build\Win64\x64\RaidGameEditor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.dep.json"
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
->>>>>>> 2bbc3b95112ec00c863eb4ab2422a19d52d608b1
 /Zc:inline
 /nologo
 /Oi

@@ -1,28 +1,7 @@
 {
 	"RemapUnityFiles": 
 	{
-<<<<<<< Updated upstream
-=======
 		"Module.RaidGame.cpp.obj": [
-			"AT_WaitReceiveDamage.cpp.obj",
-			"RaidGameplayAbility.cpp.obj",
-			"AsyncTaskAttributeChanged.cpp.obj",
-			"AsyncTaskCooldownChanged.cpp.obj",
-			"AsyncTaskEffectStackChanged.cpp.obj",
-			"BaseAttributeSet.cpp.obj",
-			"DamageExecutionCalc.cpp.obj",
-			"BaseCharacter.cpp.obj",
-			"PlayerCharacter.cpp.obj",
-			"RaidPlayerState.cpp.obj",
-			"RaidAbilitySystemComponent.cpp.obj",
-			"MyClass.cpp.obj",
-			"PlayableCharacter.cpp.obj",
-			"RaidAbilityInput.cpp.obj",
-			"RaidTags.cpp.obj",
-			"RaidGame.cpp.obj",
-			"RaidGameCharacter.cpp.obj",
-			"RaidGameGameMode.cpp.obj",
-			"RaidGamePlayerController.cpp.obj",
 			"AsyncTaskAttributeChanged.gen.cpp.obj",
 			"AsyncTaskCooldownChanged.gen.cpp.obj",
 			"AsyncTaskEffectStackChanged.gen.cpp.obj",
@@ -41,8 +20,26 @@
 			"RaidGameGameMode.gen.cpp.obj",
 			"RaidGameplayAbility.gen.cpp.obj",
 			"RaidGamePlayerController.gen.cpp.obj",
-			"RaidPlayerState.gen.cpp.obj"
+			"RaidPlayerState.gen.cpp.obj",
+			"AT_WaitReceiveDamage.cpp.obj",
+			"RaidGameplayAbility.cpp.obj",
+			"AsyncTaskAttributeChanged.cpp.obj",
+			"AsyncTaskCooldownChanged.cpp.obj",
+			"AsyncTaskEffectStackChanged.cpp.obj",
+			"BaseAttributeSet.cpp.obj",
+			"DamageExecutionCalc.cpp.obj",
+			"BaseCharacter.cpp.obj",
+			"PlayerCharacter.cpp.obj",
+			"RaidPlayerState.cpp.obj",
+			"RaidAbilitySystemComponent.cpp.obj",
+			"MyClass.cpp.obj",
+			"PlayableCharacter.cpp.obj",
+			"RaidAbilityInput.cpp.obj",
+			"RaidTags.cpp.obj",
+			"RaidGame.cpp.obj",
+			"RaidGameCharacter.cpp.obj",
+			"RaidGameGameMode.cpp.obj",
+			"RaidGamePlayerController.cpp.obj"
 		]
->>>>>>> Stashed changes
 	}
 }
