@@ -1,24 +1,29 @@
+**시연영상**  
+https://youtu.be/do4hZss5hsw
+
 # Raid Game
+MMORPG의 요소 중 다수의 인원이 모여 규모가 크고 난이도가 높은 특별한 보스 혹은 던전을 공략하는 Raid 시스템에 집중하여 만든 게임
+<br>
 
->UE5 버전 5.3.2
+# 개발 환경
+``UnrealEngine5``  
+github
+<br>
 
-## Branch 구성
-![branch 구분](https://github.com/RaidGame-Cap3/Raid/assets/129487583/d602441b-0da4-4a9d-8afd-7e2c896c9cf5)
+# Team memebers
+-권혁준  
+-김지혁  
+-한인철  
+-김태경  
 
+# 게임 구성 설계
+![image](https://github.com/user-attachments/assets/683f2e6c-c5f4-4462-aac5-078a04fce07a)
+<br>
 
-## Clone 후 실행하기
->1. Clone한 후 .uproject 파일을 실행 한다.
-> 실행 된다면 그대로 실행
->2. 에러 메세지가 발생한다.
-> Yes를 눌러 넘어간다. 실행되면 그대로 실행
->3. 해결이 되지 않는다.
->  프로젝트 파일 생성: 언리얼 엔진 에디터가 설치된 컴퓨터에서, 프로젝트의 루트 디렉토리로 이동합니다. 프로젝트 파일(.uproject)을 마우스 오른쪽 버튼으로 클릭하고, "Generate Visual Studio project files" 또는 macOS에서는 "Generate Xcode project files"를 >>선    택합니다. 이 작업으로 IDE에서 사용할 수 있는 프로젝트 파일이 생성됩니다.
->
->     IDE에서 프로젝트 열기: 생성된 프로젝트 파일을 이용해 Visual Studio 또는 Xcode를 엽니다.
->  
->     빌드 구성 설정: 개발 환경에 맞는 빌드 구성(예: Development Editor, Win64)을 선택합니다.
-> 
->     프로젝트 빌드: IDE에서 빌드 프로세스를 시작합니다. Visual Studio에서는 솔루션 탐색기에서 프로젝트를 마우스 오른쪽 버튼으로 클릭하고 "Build"를 선택합니다. Xcode에서는 빌드 버튼(재생 모양의 버튼)을 클릭합니다.
->  
->     에러 해결: 빌드 과정에서 발생할 수 있는 문제들을 해결합니다. 종종 빌드 실패는 누락된 의존성이나 구성 문제로 인해 발생합니다. 에러 메시지를 주의 깊게 읽고, 필요한 수정을 진행합니다.
->     언리얼 엔진 에디터 실행: 빌드가 성공적으로 완료되면, 언리얼 엔진 에디터를 통해 프로젝트를 열 수 있습니다. 이제 프로젝트가 정상적으로 열리고 작동해야 합니다.
+# UI 구성 설계
+![image](https://github.com/user-attachments/assets/6233da58-e9cf-422d-97c3-6e9dc7d62191)
+<br>
+
+# 사용자 시나리오
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/c7d8b993-a248-41b4-a2d5-144126759b53">
+<br>
