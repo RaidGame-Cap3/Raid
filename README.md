@@ -1,5 +1,5 @@
 **시연영상**  
-https://youtu.be/do4hZss5hsw
+https://youtu.be/V2eiD2vC0ko
 
 # Raid Game
 MMORPG의 요소 중 다수의 인원이 모여 규모가 크고 난이도가 높은 특별한 보스 혹은 던전을 공략하는 Raid 시스템에 집중하여 만든 게임
